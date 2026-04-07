@@ -1,0 +1,5 @@
+outs:
+- md5: 020f2e59aab2b00751ed190d78cb055c
+  size: 5895
+  hash: md5
+  path: Products_with_Categories.csv
